@@ -5,6 +5,6 @@ I repeatedly read that you need a developer mindset to work in DevOps, but what 
 As far as I gather it is mostly about knowing basic things about development. The things that I've seen the most are:
 
 - [[Git]]
-- [[Software Development Lifecycle|SDLC]] (Software Development Lifecycle)
+- [[software-development-lifecycle|SDLC]] (Software Development Lifecycle)
 - Programming
 - Maintainability
