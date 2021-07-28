@@ -1,8 +1,8 @@
 ![Kharnagy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons](/attachments/Devops-toolchain.svg "DevOps practices")
-
+ö
 # DevOps Knowledge Base
 
-** Welcome to my attempt at creating a DevOps Knowledge Base for myself!**
+**Welcome to my attempt at creating a DevOps Knowledge Base for myself!**
 
 # What is this repository?
 
