@@ -4,7 +4,9 @@
 
 **Welcome to my attempt at creating a DevOps Knowledge Base for myself!**
 
-# [[getting-started|Getting Started]]
+# Getting Started
+
+[[getting-started]]
 
 # What is this repository?
 
