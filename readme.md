@@ -6,6 +6,7 @@
 
 # Getting Started
 
+Start with cloning this repository to Visual Studio Code. Then follow the links. If you need to know how Foam works, checkout their [website](https://foambubble.github.io/foam/) or [repository](https://github.com/foambubble/foam).
 [[getting-started]]
 
 # What is this repository?
