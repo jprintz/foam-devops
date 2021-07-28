@@ -4,6 +4,8 @@
 
 **Welcome to my attempt at creating a DevOps Knowledge Base for myself!**
 
+# [[getting-started|Getting Started]]
+
 # What is this repository?
 
 This is the start on my journey to actually learning how to do DevOps and acquire all the skills that I need. In the end I hope that I will have learnt enough to work as a DevOps Engineer or something related.
