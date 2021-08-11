@@ -125,6 +125,16 @@ In the current implementation of Windows 10's OpenSSH client there is no equival
 type $env:USERPROFILE\.ssh\id_rsa.pub | ssh <username>@<remote_host> "mkdir -p ~/.ssh && cat >> ..ssh/authorized_keys"
 ```
 
+### WSL
+
+If you are using WSL you can copy the keys from your local computer. After copying you will need to set the permissions correctly in order for the SSH client to use the private key.
+
+```bash
+cp -R /mnt/c/Users/Julius/.ssh/* ~/.ssh/
+chmod 644 ~/.ssh/*
+chmod 600 ~/.ssh/id_rsa
+```
+
 ## Disabling password authentication
 
 When you've created, distributed and tested the SSH keys it is recommended to disable the standard password authentication. This is to increase the security and it shouldn't be a problem since you've already setup the SSH keys.
