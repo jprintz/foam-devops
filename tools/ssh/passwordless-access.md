@@ -130,7 +130,7 @@ type $env:USERPROFILE\.ssh\id_rsa.pub | ssh <username>@<remote_host> "mkdir -p ~
 If you are using WSL you can copy the keys from your local computer. After copying you will need to set the permissions correctly in order for the SSH client to use the private key.
 
 ```bash
-cp -R /mnt/c/Users/Julius/.ssh/* ~/.ssh/
+cp -R /mnt/c/Users/<username>/.ssh/* ~/.ssh/
 chmod 644 ~/.ssh/*
 chmod 600 ~/.ssh/id_rsa
 ```
