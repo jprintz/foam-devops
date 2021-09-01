@@ -1,4 +1,4 @@
-![Image of DevOps Practices](https://raw.githubusercontent.com/jprintz/foam-devops/master/attachments/Devops-toolchain.svg "Kharnagy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+![Image of DevOps Practices](/foam-devops/attachments/Devops-toolchain.svg "Kharnagy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 
 
