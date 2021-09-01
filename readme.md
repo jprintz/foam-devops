@@ -1,4 +1,6 @@
-![Image of DevOps Practices](/attachments/Devops-toolchain.svg "Kharnagy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+![Image of DevOps Practices](https://github.com/jprintz/foam-devops/blob/master/attachments/Devops-toolchain.svg "Kharnagy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+
+
 
 # DevOps Knowledge Base
 
